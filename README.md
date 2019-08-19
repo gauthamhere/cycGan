@@ -2,17 +2,18 @@
 EIP Phase 2 Assignment 3
 
 
-My understanding on CycleGANs:
+**My understanding on CycleGANs:**
 GauthamK_EIP3_Phase2_Assignment3_Main.ipynb
 
 
-Assignment Training files:
+**Assignment Training files:**
 GauthamK_EIP3P2_FaceAge_utk_cycleGAN_Colab.ipynb              - logs of Age model
 GauthamK_EIP3P2_utk_genderChaneg_FaceGAN_Colab.ipynb          - logs of Gender model
 GauthamK_EIP3P2_utk_raceChange_FaceGAN_Colab.ipynb            - logs of Race model (White to Black)
 
 
-Assignment Results/Inferencing - 
+**Assignment Results/Inferencing: **
+
 Inference_mainModel_GauthamK_EIP3P2_cycleGAN.ipynb            - Results for assignment 3  - Age+Gender+Race
 
 
@@ -20,7 +21,7 @@ Inference_mainModel_GauthamK_EIP3P2_cycleGAN.ipynb            - Results for assi
 
 
 
-Other Training -
+**Other Training -**
 GauthamK_EIP3P2_anime_FaceGAN_Colab.ipynb                     - Logs of training Human face to Anime character
 FacetoAnime_CycleGAN_Gallery.ipynb                            - Training performance images of Human face to Anime character(face)
 
