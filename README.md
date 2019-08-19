@@ -14,7 +14,7 @@ GauthamK_EIP3P2_utk_genderChaneg_FaceGAN_Colab.ipynb          - logs of Gender m
 GauthamK_EIP3P2_utk_raceChange_FaceGAN_Colab.ipynb            - logs of Race model (White to Black)
 
 
-**Assignment Results/Inferencing: **
+**Assignment Results//Inferencing: **
 
 Inference_mainModel_GauthamK_EIP3P2_cycleGAN.ipynb            - Results for assignment 3  - Age+Gender+Race
 
